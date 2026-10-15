@@ -6,11 +6,14 @@ the beat counts double. Build a streak for ×2, ×3, ×4.
 
 **Play:** https://greg.website/boom-boom-beach/
 
-- **Boom Boom FM:** seven original songs, from 92 to 176 BPM, each at its own time of day:
-  Boardwalk Boom Bap and Sandbar Stomp ('90s boom bap), Cabana Club (Y2K beach house), Hyper
-  Tide (Y2K big beat), Jet Ski Jam (Miami bass), Riptide Riot (surf punk) and Saltwater Jungle
-  (drum & bass). Every beat is mapped, so they're perfectly in sync, and the critters follow
-  each song's shape: calm in the breakdowns, and a wave of them on every drop.
+- **Boom Boom FM:** nine original songs, from 80 to 176 BPM, each at its own time of day:
+  Tidepool Tapes (lofi hip hop) and Driftwood Swing (swung boom bap), both written note by note
+  in code, Boardwalk Boom Bap and Sandbar Stomp ('90s boom bap), Cabana Club (Y2K beach house),
+  Hyper Tide (Y2K big beat), Jet Ski Jam (Miami bass), Riptide Riot (surf punk) and Saltwater
+  Jungle (drum & bass). Every beat is mapped, so they're perfectly in sync, and the critters
+  follow each song's shape: calm in the breakdowns, and a wave of them on every drop.
+- **Call and response:** the boombox plays a bar of beat; play it back with your shots for an
+  ECHO! (before a drop: DROP IT!).
 - **CHILL, NORMAL or HYPE:** pick how hard, for any song.
 - **Any song:** paste a YouTube link (on a computer). In Chrome or Edge the game listens to the
   song and finds the beat by itself (you'll be asked to share the tab's audio); in other
