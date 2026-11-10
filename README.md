@@ -1,10 +1,10 @@
-# Boom Boom Beach
+# Beat Beach
 
 A hip hop rhythm shooter that runs in your browser, styled like a lost early-2000s console
 game. Toast the cat soaks beach critters with the Desert Soaker .50, and everything you do on
 the beat counts double. Build a streak for ×2, ×3, ×4.
 
-**Play:** https://greg.website/boom-boom-beach/
+**Play:** https://greg.website/beat-beach/
 
 - **Boom Boom FM:** nine original songs, from 80 to 176 BPM, each at its own time of day:
   Tidepool Tapes (lofi hip hop) and Driftwood Swing (swung boom bap), both written note by note
